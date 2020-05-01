@@ -5,7 +5,7 @@ published: true
 tags:
   - Markdown
   - No Image
-cover_image: ""
+cover_image: /images/uploads/alexandr-podvalny-220262-unsplash.jpg
 description: Markdown is intended to be as easy-to-read and easy-to-write as is
   feasible. Readability, however, is emphasized above all else. A
   Markdown-formatted document should be publishable as-is, as plain text,
